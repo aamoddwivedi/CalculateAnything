@@ -209,20 +209,6 @@ Some planned improvements include:
 <img width="2880" height="1800" alt="Screenshot 2026-09-27 103737" src="https://github.com/user-attachments/assets/920c4693-748e-433e-baee-495865e3d780" />
 
 
-```text
-screenshots/
-├── home.png
-├── cgpa-calculator.png
-├── interest-calculator.png
-└── pert-calculator.png
-```
-
-Example:
-
-```markdown
-![CalculateAnything Home](screenshots/home.png)
-```
-
 ---
 
 ## 🌐 Live Demo
