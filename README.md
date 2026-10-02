@@ -206,7 +206,8 @@ Some planned improvements include:
 
 ## 📸 Screenshots
 
-Add screenshots of your application here:
+<img width="2880" height="1800" alt="Screenshot 2026-09-27 103737" src="https://github.com/user-attachments/assets/920c4693-748e-433e-baee-495865e3d780" />
+
 
 ```text
 screenshots/
